@@ -12,6 +12,7 @@
   "author": "NRP team",
   "license": "ISC",
   "dependencies": {
+    "aws-amplify": "^6.6.5",
     "axios": "^1.2.6",
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
@@ -32,7 +33,15 @@
     "xss-clean": "^0.1.1"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.5.0",
+    "@aws-amplify/backend-cli": "^1.2.9",
+    "aws-cdk": "^2.162.1",
+    "aws-cdk-lib": "^2.162.1",
+    "constructs": "^10.4.2",
     "cross-env": "^7.0.3",
-    "nodemon": "^3.0.1"
+    "esbuild": "^0.24.0",
+    "nodemon": "^3.0.1",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
   }
 }
