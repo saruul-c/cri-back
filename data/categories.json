@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "depcode": 221506,
+        "name": "Тусгай люкс",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T08:59:38.000Z",
+        "updatedAt": "2022-12-13T08:59:38.000Z"
+    },
+    {
+        "id": 2,
+        "depcode": 221506,
+        "name": "Бүтэн люкс",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T09:56:08.000Z",
+        "updatedAt": "2022-12-13T09:56:08.000Z"
+    },
+    {
+        "id": 3,
+        "depcode": 221506,
+        "name": "Хагас люкс",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T09:56:29.000Z",
+        "updatedAt": "2022-12-13T09:56:29.000Z"
+    },
+    {
+        "id": 4,
+        "depcode": 221506,
+        "name": "Энгийн",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T09:56:36.000Z",
+        "updatedAt": "2022-12-13T09:56:36.000Z"
+    },
+    {
+        "id": 5,
+        "depcode": 221506,
+        "name": "Канад байшин",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T09:56:57.000Z",
+        "updatedAt": "2022-12-13T09:56:57.000Z"
+    },
+    {
+        "id": 6,
+        "depcode": 221506,
+        "name": "Зуны байшин",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T09:57:18.000Z",
+        "updatedAt": "2022-12-13T09:57:18.000Z"
+    },
+    {
+        "id": 7,
+        "depcode": 221506,
+        "name": "Гэр",
+        "active": true,
+        "createdUser": 1,
+        "updatedUser": 1,
+        "createdAt": "2022-12-13T09:57:25.000Z",
+        "updatedAt": "2022-12-13T09:57:25.000Z"
+    }
+]

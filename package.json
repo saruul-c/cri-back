@@ -1,0 +1,38 @@
+{
+  "name": "crisbe",
+  "version": "1.0.0",
+  "description": "CRI system",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env TZ=Asia/Ulaanbaatar nodemon server",
+    "build": "NODE_ENV=production node server",
+    "deploy": "scp -P 2211 -r * nf@192.168.4.103:/home/nf/Apps/cri/backend/"
+  },
+  "keywords": [],
+  "author": "NRP team",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.6",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
+    "helmet": "^6.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.1",
+    "rotating-file-stream": "^3.0.4",
+    "sequelize": "^6.24.0",
+    "tedious": "^11.0.8",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "category",
+        "comment": "Бүлэг",
+        "menu": true,
+        "path": "/category",
+        "active": true,
+        "createdAt": "2022-12-13T05:42:52.000Z",
+        "updatedAt": "2022-12-13T05:42:52.000Z"
+    },
+    {
+        "id": 2,
+        "name": "category-add",
+        "comment": "Бүлэг нэмэх",
+        "menu": false,
+        "path": "/category",
+        "active": true,
+        "createdAt": "2022-12-13T05:46:47.000Z",
+        "updatedAt": "2022-12-13T05:46:47.000Z"
+    },
+    {
+        "id": 3,
+        "name": "category-edit",
+        "comment": "Бүлэг засах",
+        "menu": false,
+        "path": "/category",
+        "active": true,
+        "createdAt": "2022-12-13T05:49:22.000Z",
+        "updatedAt": "2022-12-13T05:49:22.000Z"
+    },
+    {
+        "id": 4,
+        "name": "category-delete",
+        "comment": "Бүлэг устгах",
+        "menu": false,
+        "path": "/category",
+        "active": true,
+        "createdAt": "2022-12-13T05:49:38.000Z",
+        "updatedAt": "2022-12-13T05:49:38.000Z"
+    },
+    {
+        "id": 5,
+        "name": "room",
+        "comment": "Өрөө",
+        "menu": true,
+        "path": "/room",
+        "active": true,
+        "createdAt": "2022-12-13T05:50:26.000Z",
+        "updatedAt": "2022-12-13T05:50:26.000Z"
+    },
+    {
+        "id": 6,
+        "name": "room-add",
+        "comment": "Өрөө нэмэх",
+        "menu": false,
+        "path": "/room",
+        "active": true,
+        "createdAt": "2022-12-13T05:50:40.000Z",
+        "updatedAt": "2022-12-13T05:50:40.000Z"
+    },
+    {
+        "id": 7,
+        "name": "room-edit",
+        "comment": "Өрөө засах",
+        "menu": false,
+        "path": "/room",
+        "active": true,
+        "createdAt": "2022-12-13T05:50:51.000Z",
+        "updatedAt": "2022-12-13T05:50:51.000Z"
+    },
+    {
+        "id": 8,
+        "name": "room-delete",
+        "comment": "Өрөө утсгах",
+        "menu": false,
+        "path": "/room",
+        "active": true,
+        "createdAt": "2022-12-13T05:51:00.000Z",
+        "updatedAt": "2022-12-13T05:51:00.000Z"
+    },
+    {
+        "id": 9,
+        "name": "service",
+        "comment": "Үйлчилгээ",
+        "menu": true,
+        "path": "/service",
+        "active": true,
+        "createdAt": "2022-12-13T05:52:17.000Z",
+        "updatedAt": "2022-12-13T05:52:17.000Z"
+    },
+    {
+        "id": 10,
+        "name": "service-add",
+        "comment": "Үйлчилгээ нэмэх",
+        "menu": false,
+        "path": "/service",
+        "active": true,
+        "createdAt": "2022-12-13T05:52:50.000Z",
+        "updatedAt": "2022-12-13T05:52:50.000Z"
+    },
+    {
+        "id": 11,
+        "name": "service-edit",
+        "comment": "Үйлчилгээ засах",
+        "menu": false,
+        "path": "/service",
+        "active": true,
+        "createdAt": "2022-12-13T05:52:59.000Z",
+        "updatedAt": "2022-12-13T05:52:59.000Z"
+    },
+    {
+        "id": 12,
+        "name": "service-delete",
+        "comment": "Үйлчилгээ устгах",
+        "menu": false,
+        "path": "/service",
+        "active": true,
+        "createdAt": "2022-12-13T05:53:08.000Z",
+        "updatedAt": "2022-12-13T05:53:08.000Z"
+    }
+]

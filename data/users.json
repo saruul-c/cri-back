@@ -1,0 +1,211 @@
+{
+    "id": 1,
+    "email": "ganaa1147@gmail.com",
+    "password": "123",
+    "lastname": "Ган-Эрдэнэ",
+    "firstname": "Ганбаатар",
+    "phone": "21-242882",
+    "mobile": "86114466",
+    "birthDay": "1986-01-28",
+    "depcode": 221506,
+    "jobName": "Програмист инженер",
+    "jobShort": "НРПи",
+    "sex": true,
+    "active": true,
+    "createdAt": "2022-12-13T13:27:31.000Z",
+    "updatedAt": "2022-12-13T13:27:31.000Z",
+    "roles": [
+        {
+            "id": 1,
+            "name": "category-add",
+            "comment": "Бүлэг нэмэх",
+            "menu": false,
+            "path": "/category",
+            "active": true,
+            "createdAt": "2022-12-13T05:46:47.000Z",
+            "updatedAt": "2022-12-13T05:46:47.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 1
+            }
+        },
+        {
+            "id": 2,
+            "name": "category",
+            "comment": "Бүлэг",
+            "menu": true,
+            "path": "/category",
+            "active": true,
+            "createdAt": "2022-12-13T05:48:52.000Z",
+            "updatedAt": "2022-12-13T05:48:52.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 2
+            }
+        },
+        {
+            "id": 3,
+            "name": "category-edit",
+            "comment": "Бүлэг засах",
+            "menu": false,
+            "path": "/category",
+            "active": true,
+            "createdAt": "2022-12-13T05:49:22.000Z",
+            "updatedAt": "2022-12-13T05:49:22.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 3
+            }
+        },
+        {
+            "id": 4,
+            "name": "category-delete",
+            "comment": "Бүлэг устгах",
+            "menu": false,
+            "path": "/category",
+            "active": true,
+            "createdAt": "2022-12-13T05:49:38.000Z",
+            "updatedAt": "2022-12-13T05:49:38.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 4
+            }
+        },
+        {
+            "id": 5,
+            "name": "room",
+            "comment": "Өрөө",
+            "menu": true,
+            "path": "/room",
+            "active": true,
+            "createdAt": "2022-12-13T05:50:26.000Z",
+            "updatedAt": "2022-12-13T05:50:26.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 5
+            }
+        },
+        {
+            "id": 6,
+            "name": "room-add",
+            "comment": "Өрөө нэмэх",
+            "menu": false,
+            "path": "/room",
+            "active": true,
+            "createdAt": "2022-12-13T05:50:40.000Z",
+            "updatedAt": "2022-12-13T05:50:40.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 6
+            }
+        },
+        {
+            "id": 7,
+            "name": "room-edit",
+            "comment": "Өрөө засах",
+            "menu": false,
+            "path": "/room",
+            "active": true,
+            "createdAt": "2022-12-13T05:50:51.000Z",
+            "updatedAt": "2022-12-13T05:50:51.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 7
+            }
+        },
+        {
+            "id": 8,
+            "name": "room-delete",
+            "comment": "Өрөө утсгах",
+            "menu": false,
+            "path": "/room",
+            "active": true,
+            "createdAt": "2022-12-13T05:51:00.000Z",
+            "updatedAt": "2022-12-13T05:51:00.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 8
+            }
+        },
+        {
+            "id": 9,
+            "name": "service",
+            "comment": "Үйлчилгээ",
+            "menu": true,
+            "path": "/service",
+            "active": true,
+            "createdAt": "2022-12-13T05:52:17.000Z",
+            "updatedAt": "2022-12-13T05:52:17.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 9
+            }
+        },
+        {
+            "id": 10,
+            "name": "service-add",
+            "comment": "Үйлчилгээ нэмэх",
+            "menu": false,
+            "path": "/service",
+            "active": true,
+            "createdAt": "2022-12-13T05:52:50.000Z",
+            "updatedAt": "2022-12-13T05:52:50.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 10
+            }
+        },
+        {
+            "id": 11,
+            "name": "service-edit",
+            "comment": "Үйлчилгээ засах",
+            "menu": false,
+            "path": "/service",
+            "active": true,
+            "createdAt": "2022-12-13T05:52:59.000Z",
+            "updatedAt": "2022-12-13T05:52:59.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 11
+            }
+        },
+        {
+            "id": 12,
+            "name": "service-delete",
+            "comment": "Үйлчилгээ устгах",
+            "menu": false,
+            "path": "/service",
+            "active": true,
+            "createdAt": "2022-12-13T05:53:08.000Z",
+            "updatedAt": "2022-12-13T05:53:08.000Z",
+            "cri_users_roles": {
+                "createdAt": "2022-12-13T05:48:52.000Z",
+                "updatedAt": "2022-12-13T05:48:52.000Z",
+                "userId": 1,
+                "roleId": 12
+            }
+        }
+    ]
+}
